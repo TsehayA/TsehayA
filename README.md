@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tsehay Ashiber
+- 👋 Hi, I’m Tsehay Ashiber
 - 👀 I’m interested in Data Analytics, Capital Markets and Financial modelling
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any projects
